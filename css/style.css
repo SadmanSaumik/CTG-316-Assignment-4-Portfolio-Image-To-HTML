@@ -193,7 +193,6 @@ header{
 	width: 100%;
 	float: left;
     padding: 25px 0;
-    position: relative;
 }
 .service-title.skill-title{
 
@@ -203,14 +202,15 @@ header{
     float: left;
     text-align: center;
     margin: 0px 17px;
-    padding: 40px 0;   
+    padding: 40px 0;
+    position: relative;
 }
 .skill-items h3{
     margin-top: 10px;
 }
 .skill-items p{
     position: absolute;
-    top: 254px;
+    top: 114px;
     padding: 0px 110px;
     font-weight: bold;
 }
